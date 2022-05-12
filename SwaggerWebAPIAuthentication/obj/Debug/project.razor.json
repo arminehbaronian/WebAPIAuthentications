@@ -1,0 +1,19 @@
+{
+  "FilePath": "e:\\Projects\\01_MatinRaianeh\\SwaggerAutherization\\WebAPIAuthentication\\SwaggerWebAPIAuthentication\\SwaggerWebAPIAuthentication.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
